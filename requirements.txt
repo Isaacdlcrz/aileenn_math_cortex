@@ -1,0 +1,7 @@
+Flask==1.1.2
+Flask-Cors==3.0.10
+flask-marshmallow==0.14.0
+pandas==1.2.3
+scipy==1.6.2
+pystan~=2.19.1.1
+prophet==1.0.1
